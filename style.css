@@ -377,7 +377,7 @@ input:-webkit-autofill:focus {
 
 /*-- usermanual-Area --*/
 
-.usermanual-area {
+.feedback-area {
     color: #ffffff;
     background-color: #5e88fc;
     background-image: url('images/usermanual-bg.png');
@@ -387,7 +387,7 @@ input:-webkit-autofill:focus {
     margin-bottom: 142px;
 }
 
-.usermanual-area .page-title .title {
+.feedback-area .page-title .title {
     color: #ffffff;
 }
 
@@ -573,7 +573,7 @@ input:-webkit-autofill:focus {
     font-size: 20px;
     margin-bottom: 40px;
     font-weight: 600;
-    color: #434345;
+    color:  white;
 }
 
 .comments-list,
